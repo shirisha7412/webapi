@@ -1,0 +1,5 @@
+type Country @model {
+  code: CODE!
+  label: LABEL!
+  phone: PHONE!  
+}
